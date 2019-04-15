@@ -43,6 +43,14 @@ a {
   font-size: 2rem;
 }
 
+section#entertainment {
+  background: url(images/section-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  padding: 10rem 0;
+}
+
 /* Buttons */
 
 .btn {
